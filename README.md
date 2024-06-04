@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DiegoKatabian
-- 👀 I’m interested in ... man i love gravity.
-- 🌱 I’m currently learning ... to write videogames with C# on my puter.
-- 💞️ I’m looking to collaborate on ... physics-based, phonk-based and holy minimalist videogames
-- 📫 How to reach me ... right here
+- 👀 I’m interested in ... gravity n stuff
+- 🌱 I’m currently learning ... to write better videogames
+- 💞️ I’m looking to collaborate on ... physics-based, phonk-based and holy minimalist games
+- 📫 How to reach me ... https://kimmiarts.itch.io/
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i won a gamejam first prize for a toast-throwing videogame, you literally throw toast. and another character lasers it. toasts and lasers.
 
